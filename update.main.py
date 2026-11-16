@@ -301,7 +301,7 @@ set_site_information(
     description="A turn-based 2D base-building and resource management game for CISC106.",
     sources="Drafter docs; ChatGPT (plan,images); base-building games.",
     planning=["Week 10 brainstorming", "Week 11 design"],
-    links=["https://drafter-edu.github.io/drafter/"],
+    links=["https://github.com/HSJF11/Final.git"],
 )
 hide_debug_information()
 set_website_framed(False)
